@@ -1,2 +1,2 @@
 # Exercicios Python
-Exercios de Python do Curso em Video Guanabara
+Exercícios de Python do Curso em Video Guanabara
